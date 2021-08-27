@@ -1,0 +1,8 @@
+model_checkpoint_path: "textrnn_word-4"
+all_model_checkpoint_paths: "textrnn_word-2"
+all_model_checkpoint_paths: "textrnn_word-3"
+all_model_checkpoint_paths: "textrnn_word-4"
+all_model_checkpoint_timestamps: 1629994698.0790381
+all_model_checkpoint_timestamps: 1629995380.5790882
+all_model_checkpoint_timestamps: 1629996790.420934
+last_preserved_timestamp: 1627920032.819063

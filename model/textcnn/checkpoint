@@ -1,0 +1,8 @@
+model_checkpoint_path: "textcnn_word-3"
+all_model_checkpoint_paths: "textcnn_word-1"
+all_model_checkpoint_paths: "textcnn_word-2"
+all_model_checkpoint_paths: "textcnn_word-3"
+all_model_checkpoint_timestamps: 1627918558.6649768
+all_model_checkpoint_timestamps: 1627918729.8975735
+all_model_checkpoint_timestamps: 1627918896.9629574
+last_preserved_timestamp: 1627918403.2121427
